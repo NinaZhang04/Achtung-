@@ -1,0 +1,4 @@
+My rough look of the game is in the final project proposal
+all of my sketches of sprites are created digitally(basically I used "paint" and "photoshop" edited most of the sprites and make their background transparent, so there is nothing)
+I also use an online sprite creator to make the hitboxes and most of the bullets
+You can see the horizontal lasers and the vertical lasers are a different colour, I edited it and there are no sketches because I used photoshop for that.
